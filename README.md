@@ -30,9 +30,8 @@ You can use IRB for that :)
 `git clone https://github.com/ChaabaneAnas/Morse-code `
 
 ### Usage
-- To run 
-### Run tests
-
+- To run use the command 
+` ruby index.rb'
 
 ## Authors
 
