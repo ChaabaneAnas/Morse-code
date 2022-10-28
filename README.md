@@ -22,16 +22,15 @@ You can use IRB for that :)
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 - Ruby
-### Setup
 
-### Install
+### Setup
+- Clone this project using the git command below
+`git clone https://github.com/ChaabaneAnas/Morse-code `
 
 ### Usage
-
+- To run 
 ### Run tests
 
 
