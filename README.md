@@ -44,7 +44,7 @@ You can use IRB for that :)
 
 👤 **Author2**
 
-👤 **Afolabi Akorede**
+👤 **Anas Chaabane**
 
 - GitHub: [@ChaabaneAnas](https://github.com/ChaabaneAnas)
 - Twitter: [@AnasChabaane](https://twitter.com/AnasChabaane)
